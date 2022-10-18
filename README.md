@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dennis
+- 👋 Hi, I’m Dennis.
 - 👀 I’m interested in ML, DL, Data Science, Data Analysis.
 - 🌱 I’m currently learning Python.
 
