@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deburckh
+- 👋 Hi, I’m Dennis
 - 👀 I’m interested in ML, DL, Data Science, Data Analysis.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
